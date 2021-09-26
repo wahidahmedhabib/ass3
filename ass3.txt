@@ -1,0 +1,33 @@
+
+DART
+
+
+void main() {
+//   for (int i = 0; i < 5; i++) {
+//     print('hello ${i + 1}');
+//   }
+  print("QUESTION NO # 7");
+var num =5;
+  for (var i=1;i<=100;i++){
+    print( '${num} X ${i}= ${num*i}');
+  }
+  print("QUESTION NO # 5");
+  
+  var num1=7;
+  for(var a=1; a<=15; a++){
+    print('${num1} x ${a}=${num1*a}');
+  }
+   print("QUESTION NO # 6");
+  var frt=["apple","mango","banana","orange","stroebry","cherry","graphs"];
+  for(var b in frt  ){
+    print(b);
+  }
+//   print(frt[0]);
+//   print(frt[01]);
+//   print(frt[02]);
+//   print(frt[03]);
+//   print(frt[04]);
+//   print(frt[05]);
+  
+  
+}
